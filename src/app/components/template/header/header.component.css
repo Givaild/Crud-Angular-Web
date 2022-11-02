@@ -1,7 +1,7 @@
 .header {
   display: flex;
   align-items: center;
-  padding-top: 50px;
+  padding-top: 35px;
 }
 
 .header a {
@@ -11,8 +11,8 @@
 }
 
 .header .logo {
-    max-height: 120px;
+    max-height: 100px;
 }
 .header .title-group {
-    padding-left: 25px;
+    padding-left: 35px;
 }
